@@ -1,1 +1,1 @@
-2
+git config --global user.email "weixiabing@hotmail.com"
