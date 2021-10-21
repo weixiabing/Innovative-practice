@@ -4,7 +4,7 @@
 
 
 
-<img src="library/pic/QQ图片20211015204457.jpg" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/weixiabing/Innovative-practice/library/pic/QQ图片20211015204457.jpg" width="50%">
 
 > 麻衣学姐
 
