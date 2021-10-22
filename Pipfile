@@ -1,11 +1,14 @@
 [[source]]
-url = "https://mirrors.aliyun.com/pypi/simple"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 verify_ssl = true
 name = "pypi"
 
 [packages]
 numpy = "*"
 pandas = "*"
+sqlalchemy = "*"
+pymysql = "*"
+matplotlib = "*"
 
 [dev-packages]
 
