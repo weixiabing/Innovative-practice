@@ -9,6 +9,7 @@ pandas = "*"
 sqlalchemy = "*"
 pymysql = "*"
 matplotlib = "*"
+statsmodels = "*"
 
 [dev-packages]
 ipykernel = "*"
