@@ -7,7 +7,7 @@ from statsmodels.tsa.holtwinters import SimpleExpSmoothing, ExponentialSmoothing
 pf=pd.read_csv('library/csv/pm/beijing_final1.csv')
 pf2=pd.read_csv('library/csv/pm/beijing_final2.csv')
 
-model = ExponentialSmoothing(pf["Value"], trend="mul", seasonal="mul", seasonal_periods=8760).fit()
+model = ExponentialSmoothing(pf["Value"], trend="add", seasonal="add", seasonal_periods=8760).fit()
 pred = model.forecast(720)
 pred.to_csv("library/csv/pm/beijing_result.csv", encoding="utf_8_sig")
 plt.figure()
