@@ -10,6 +10,8 @@ sqlalchemy = "*"
 pymysql = "*"
 matplotlib = "*"
 statsmodels = "*"
+seaborn = "*"
+tqdm = "*"
 
 [dev-packages]
 ipykernel = "*"
