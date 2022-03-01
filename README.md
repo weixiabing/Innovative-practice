@@ -4,7 +4,7 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/weixiabing/Innovative-practice/library/pic/QQ图片20211015204457.jpg" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/weixiabing/Innovative-practice/library/pic/QQ图片20211015204457.jpg" width="30%">
 
 > 麻衣学姐
 
@@ -17,7 +17,15 @@
 <img alt="GitHub 顶级语言" src="https://img.shields.io/github/languages/top/weixiabing/Innovative-practice?color=red"/>
 </p>
 
+# 进度
+
++ 第一学期 基于arima和holt-winter对pm2.5的时序序列进行预测
++ 第二学期 loading
++ 第三学期 loading
++ 。。。。
+
 # 安装
+
 + [vsc](https://code.visualstudio.com/)
 + [git]()
 + [python]()
