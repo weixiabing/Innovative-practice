@@ -9,12 +9,15 @@ pandas = "*"
 sqlalchemy = "*"
 pymysql = "*"
 matplotlib = "*"
-statsmodels = "*"
 seaborn = "*"
 tqdm = "*"
+jupyter = "*"
+statsmodels = "*"
+pmdarima = "*"
+tensorflow = "*"
 
 [dev-packages]
 ipykernel = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
