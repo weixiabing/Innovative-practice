@@ -12,7 +12,7 @@
 `<img alt="size" src="https://img.shields.io/github/repo-size/weixiabing/Innovative-practice?color=pink"/>`
 `<a href="https://github.com/weixiabing/Innovative-practice/LICENSE"><img alt="license" src="https://img.shields.io/github/license/weixiabing/Innovative-practice.svg"/>``</a>`
 
-`<img alt="GitHub 顶级语言" src="https://img.shields.io/github/languages/top/weixiabing/Innovative-practice?color=red"/>`
+<img alt="GitHub 顶级语言" src="https://img.shields.io/github/languages/top/weixiabing/Innovative-practice?color=red"/>
 
 </p>
 
