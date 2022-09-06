@@ -6,15 +6,13 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-sqlalchemy = "*"
-pymysql = "*"
 matplotlib = "*"
 seaborn = "*"
-tqdm = "*"
 jupyter = "*"
-statsmodels = "*"
-pmdarima = "*"
-tensorflow = "*"
+tensorflow-gpu = "*"
+keras = "*"
+
+
 
 [dev-packages]
 ipykernel = "*"
