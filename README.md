@@ -8,11 +8,11 @@
 
 <p align="left">
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/weixiabing/Innovative-practice.svg?label=commits">
-<img alt="size" src="https://img.shields.io/github/repo-size/weixiabing/Innovative-practice?color=pink"/>
-<a href="https://github.com/weixiabing/Innovative-practice/LICENSE"><img alt="license" src="https://img.shields.io/github/license/weixiabing/Innovative-practice.svg"/></a>
+`<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/weixiabing/Innovative-practice.svg?label=commits">`
+`<img alt="size" src="https://img.shields.io/github/repo-size/weixiabing/Innovative-practice?color=pink"/>`
+`<a href="https://github.com/weixiabing/Innovative-practice/LICENSE"><img alt="license" src="https://img.shields.io/github/license/weixiabing/Innovative-practice.svg"/>``</a>`
 
-<img alt="GitHub 顶级语言" src="https://img.shields.io/github/languages/top/weixiabing/Innovative-practice?color=red"/>
+`<img alt="GitHub 顶级语言" src="https://img.shields.io/github/languages/top/weixiabing/Innovative-practice?color=red"/>`
 
 </p>
 
@@ -20,7 +20,7 @@
 
 + 第一学期 基于arima和holt-winter对pm2.5的时序序列进行预测
 + 第二学期 基于arima和dnn的商品销量预测
-+ 第三学期 loading
++ 第三学期 基于深度学习的跨域大数据的智能蜂窝流量预测
 + 。。。。
 
 # 安装环境
@@ -28,6 +28,8 @@
 + [vsc](https://code.visualstudio.com/)
 + [git]()
 + [python]()3.8+
++ keras
++ tensorflow-gpu
 
 # 教程自取
 
