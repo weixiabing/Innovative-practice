@@ -11,8 +11,7 @@ seaborn = "*"
 jupyter = "*"
 tensorflow-gpu = "*"
 keras = "*"
-
-
+sklearn = "*"
 
 [dev-packages]
 ipykernel = "*"
