@@ -12,6 +12,8 @@ jupyter = "*"
 tensorflow-gpu = "*"
 keras = "*"
 sklearn = "*"
+cupy-cuda117 = "*"
+dask = "*"
 
 [dev-packages]
 ipykernel = "*"
