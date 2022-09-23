@@ -14,6 +14,7 @@ keras = "*"
 sklearn = "*"
 cupy-cuda117 = "*"
 dask = "*"
+imageio = "*"
 
 [dev-packages]
 ipykernel = "*"
