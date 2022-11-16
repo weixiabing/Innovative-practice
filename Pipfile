@@ -16,6 +16,7 @@ cupy-cuda117 = "*"
 dask = "*"
 imageio = "*"
 tensorboard = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
