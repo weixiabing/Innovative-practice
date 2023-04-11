@@ -1,5 +1,5 @@
 [[source]]
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.aliyun.com/pypi/simple/"
 verify_ssl = true
 name = "pypi"
 
@@ -18,6 +18,8 @@ imageio = "*"
 tensorboard = "*"
 scipy = "*"
 pyperformance = "*"
+spacepy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
