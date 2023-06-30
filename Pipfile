@@ -20,6 +20,7 @@ scipy = "*"
 pyperformance = "*"
 spacepy = "*"
 scikit-learn = "*"
+keplergl = "*"
 
 [dev-packages]
 ipykernel = "*"
